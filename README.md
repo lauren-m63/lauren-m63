@@ -1,2 +1,1 @@
- Small personal projects I am working on 
-
+Personal and Professional Projects 
